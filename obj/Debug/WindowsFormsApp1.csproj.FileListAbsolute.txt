@@ -1,0 +1,10 @@
+E:\VS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\VS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\VS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\VS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\VS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\VS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\VS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\VS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\VS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Task.resources
+E:\VS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Point.resources
